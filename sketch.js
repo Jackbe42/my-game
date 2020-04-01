@@ -1,3 +1,5 @@
+ //This is my drawing app
+
 var x = 200;
 var y = 200;
 var redness = 0;
